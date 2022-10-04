@@ -1,0 +1,11 @@
+:root{
+    font-family: 'Dancing Script', cursive;
+}
+body{
+    background-color: #FFFFFF;
+    /* background-image: url("./...."); */
+    
+}
+h1{
+    color: rgba(0,0,255, 0.5);
+}
